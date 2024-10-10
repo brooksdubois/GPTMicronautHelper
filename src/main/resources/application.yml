@@ -1,0 +1,4 @@
+chatgpt:
+  url: https://api.openai.com/v1/
+  token: ${GPT_TOKEN}
+  orgkey: ${ORG_KEY}
